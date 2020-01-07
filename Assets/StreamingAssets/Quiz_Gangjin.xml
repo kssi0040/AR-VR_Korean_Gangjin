@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Quiz>
+  <List>
+    <QuizTimeRec>
+      <InitQuizInfo ID="0" Count="5">
+        <QuizList>
+          <InitQuiz ID="0" Type="Option">
+            <Option>
+              <Question>1. 한 사회의 구성원들에게 공통적인 행동 양식 및 사고 방식이 나타남. 인도에서는 왼손을 불경하게 여기고, 중국에서는 생일에 장수면을 먹는 것이 그러한 예</Question>
+              <OrderPanel>
+                <InitItem ID="0" Name="item0">
+                  <Sprite></Sprite>
+                  <Text>공유성</Text>
+                </InitItem>
+                <InitItem ID="1" Name="item1">
+                  <Sprite></Sprite>
+                  <Text>학습성</Text>
+                </InitItem>
+                <InitItem ID="2" Name="item2">
+                  <Sprite></Sprite>
+                  <Text>축적성</Text>
+                </InitItem>
+                <InitItem ID="3" Name="item3">
+                  <Sprite></Sprite>
+                  <Text>변동성</Text>
+                </InitItem>
+                <InitItem ID="4" Name="item4">
+                  <Sprite></Sprite>
+                  <Text>전체성</Text>
+                </InitItem>
+              </OrderPanel>
+              <AnswerList>
+                <InitAnswer ID="0" Answer="공유성"/>
+              </AnswerList>
+            </Option>              
+          </InitQuiz>
+          <InitQuiz ID="1" Type="Option">
+            <Option>
+              <Question>2. 문화는 타고나는 것이 아니라 후천적으로 학습된 결과로 얻어짐. 젓가락 사용법을 배우는 것이 그러한 예</Question>
+              <OrderPanel>
+                <InitItem ID="0" Name="item0">
+                  <Sprite></Sprite>
+                  <Text>공유성</Text>
+                </InitItem>
+                <InitItem ID="1" Name="item1">
+                  <Sprite></Sprite>
+                  <Text>학습성</Text>
+                </InitItem>
+                <InitItem ID="2" Name="item2">
+                  <Sprite></Sprite>
+                  <Text>축적성</Text>
+                </InitItem>
+                <InitItem ID="3" Name="item3">
+                  <Sprite></Sprite>
+                  <Text>변동성</Text>
+                </InitItem>
+                <InitItem ID="4" Name="item4">
+                  <Sprite></Sprite>
+                  <Text>전체성</Text>
+                </InitItem>
+              </OrderPanel>
+              <AnswerList>
+                <InitAnswer ID="0" Answer="학습성"/>
+              </AnswerList>
+            </Option>
+          </InitQuiz>
+          <InitQuiz ID="2" Type="Option">
+            <Option>
+              <Question>기존 문화에 새로운 지식과 생활양식이 계속 쌓이고 전승됨. 요리법이 전수되는 것이 그러한 예</Question>
+              <OrderPanel>
+                <InitItem ID="0" Name="item0">
+                  <Sprite></Sprite>
+                  <Text>공유성</Text>
+                </InitItem>
+                <InitItem ID="1" Name="item1">
+                  <Sprite></Sprite>
+                  <Text>학습성</Text>
+                </InitItem>
+                <InitItem ID="2" Name="item2">
+                  <Sprite></Sprite>
+                  <Text>축적성</Text>
+                </InitItem>
+                <InitItem ID="3" Name="item3">
+                  <Sprite></Sprite>
+                  <Text>변동성</Text>
+                </InitItem>
+                <InitItem ID="4" Name="item4">
+                  <Sprite></Sprite>
+                  <Text>전체성</Text>
+                </InitItem>
+              </OrderPanel>
+              <AnswerList>
+                <InitAnswer ID="0" Answer="학습성"/>
+              </AnswerList>
+            </Option>
+          </InitQuiz>
+          <InitQuiz ID="3" Type="Option">
+            <Option>
+              <Question>4. 문화는 고정된 것이 아니라 시대적, 사회적, 환경에 따라 끊임없이 변화함. 다른 계층이 먹을 수 있는 음식이 되었다던가, 외국 문물을 접하여 새로운 재료가 추가된 것이 그러한 예.</Question>
+              <OrderPanel>
+                <InitItem ID="0" Name="item0">
+                  <Sprite></Sprite>
+                  <Text>공유성</Text>
+                </InitItem>
+                <InitItem ID="1" Name="item1">
+                  <Sprite></Sprite>
+                  <Text>학습성</Text>
+                </InitItem>
+                <InitItem ID="2" Name="item2">
+                  <Sprite></Sprite>
+                  <Text>축적성</Text>
+                </InitItem>
+                <InitItem ID="3" Name="item3">
+                  <Sprite></Sprite>
+                  <Text>변동성</Text>
+                </InitItem>
+                <InitItem ID="4" Name="item4">
+                  <Sprite></Sprite>
+                  <Text>전체성</Text>
+                </InitItem>
+              </OrderPanel>
+              <AnswerList>
+                <InitAnswer ID="0" Answer="변동성"/>
+              </AnswerList>
+            </Option>
+          </InitQuiz>
+          <InitQuiz ID="4" Type="Option">
+            <Option>
+              <Question>5. 문화의 구성 요소들은 서로 밀접한 관련을 맺어, 하나의 문화 요소가 변화하면 다른 요소들에도 영향을 미침. 세계화로 인해 음식을 먹는 식기가 바뀐 것이 그러한 예.</Question>
+              <OrderPanel>
+                <InitItem ID="0" Name="item0">
+                  <Sprite></Sprite>
+                  <Text>공유성</Text>
+                </InitItem>
+                <InitItem ID="1" Name="item1">
+                  <Sprite></Sprite>
+                  <Text>학습성</Text>
+                </InitItem>
+                <InitItem ID="2" Name="item2">
+                  <Sprite></Sprite>
+                  <Text>축적성</Text>
+                </InitItem>
+                <InitItem ID="3" Name="item3">
+                  <Sprite></Sprite>
+                  <Text>변동성</Text>
+                </InitItem>
+                <InitItem ID="4" Name="item4">
+                  <Sprite></Sprite>
+                  <Text>전체성</Text>
+                </InitItem>
+              </OrderPanel>
+              <AnswerList>
+                <InitAnswer ID="0" Answer="전체성"/>
+              </AnswerList>
+            </Option>
+          </InitQuiz>
+        </QuizList>
+      </InitQuizInfo>
+    </QuizTimeRec>    
+    <LinkQuiz>
+      <InitQuizInfo ID="0">
+        <Text> 다음의 제시된 시어를 동일한 의미의 표준어로 연결해 보세요.</Text>
+        <LeftPanel>
+          <InitItem ID="0" Name="qitem1">
+            <Text>1) 새악시</Text>
+            <Pair>1</Pair>
+          </InitItem>
+          <InitItem ID="1" Name="qitem2">
+            <Text>2) 소색이다</Text>
+            <Pair>2</Pair>
+          </InitItem>
+          <InitItem ID="2" Name="qitem3">
+            <Text>3) 살프시</Text>
+            <Pair>0</Pair>
+          </InitItem>          
+        </LeftPanel>
+        <RightPanel>
+          <InitItem ID="0" Name="aitem1">
+            <Text>ㄱ. 살포시</Text>
+            <Pair>2</Pair>
+          </InitItem>
+          <InitItem ID="1" Name="aitem2">
+            <Text>ㄴ. 색시</Text>
+            <Pair>0</Pair>
+          </InitItem>
+          <InitItem ID="2" Name="aitem3">
+            <Text>ㄷ. 속삭이다</Text>
+            <Pair>1</Pair>
+          </InitItem>         
+        </RightPanel>
+      </InitQuizInfo>
+      <InitQuizInfo ID="1">
+        <Text> 다음의 제시된 시어를 동일한 의미의 표준어로 연결해 보세요.</Text>
+        <LeftPanel>
+          <InitItem ID="0" Name="qitem1">
+            <Text>1) 자최</Text>
+            <Pair>2</Pair>
+          </InitItem>
+          <InitItem ID="1" Name="qitem2">
+            <Text>2) 하냥</Text>
+            <Pair>0</Pair>
+          </InitItem>
+          <InitItem ID="2" Name="qitem3">
+            <Text>3) 서름</Text>
+            <Pair>1</Pair>
+          </InitItem>
+        </LeftPanel>
+        <RightPanel>
+          <InitItem ID="0" Name="aitem1">
+            <Text>ㄱ. 늘</Text>
+            <Pair>1</Pair>
+          </InitItem>
+          <InitItem ID="1" Name="aitem2">
+            <Text>ㄴ. 설움</Text>
+            <Pair>2</Pair>
+          </InitItem>
+          <InitItem ID="2" Name="aitem3">
+            <Text>ㄷ. 자취</Text>
+            <Pair>0</Pair>
+          </InitItem>
+        </RightPanel>
+      </InitQuizInfo>
+    </LinkQuiz>
+  </List> 
+</Quiz>

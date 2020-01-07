@@ -1,0 +1,536 @@
+fileFormatVersion: 2
+guid: f2b489c67717c7749a4d5c035a33d8bb
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "\uAC15\uC9C4NPC_0"
+    21300002: "\uAC15\uC9C4NPC_1"
+    21300004: "\uAC15\uC9C4NPC_2"
+    21300006: "\uAC15\uC9C4NPC_3"
+    21300008: "\uAC15\uC9C4NPC_4"
+    21300010: "\uAC15\uC9C4NPC_5"
+    21300012: "\uAC15\uC9C4NPC_6"
+    21300014: "\uAC15\uC9C4NPC_7"
+    21300016: "\uAC15\uC9C4NPC_8"
+    21300018: "\uAC15\uC9C4NPC_9"
+    21300020: "\uAC15\uC9C4NPC_10"
+    21300022: "\uAC15\uC9C4NPC_11"
+    21300024: "\uAC15\uC9C4NPC_12"
+    21300026: "\uAC15\uC9C4NPC_13"
+    21300028: "\uAC15\uC9C4NPC_14"
+    21300030: "\uAC15\uC9C4NPC_15"
+    21300032: "\uAC15\uC9C4NPC_16"
+    21300034: "\uAC15\uC9C4NPC_17"
+    21300036: "\uAC15\uC9C4NPC_18"
+    21300038: "\uAC15\uC9C4NPC_19"
+    21300040: "\uAC15\uC9C4NPC_20"
+    21300042: "\uAC15\uC9C4NPC_21"
+    21300044: "\uAC15\uC9C4NPC_22"
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\uAC15\uC9C4NPC_0"
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1705
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc0abae1c558c643ac04a2038323c11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uAC15\uC9C4NPC_1"
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1712
+        width: 49
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8dec266f123b4e40971cc91d87f36a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uAC15\uC9C4NPC_2"
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1654
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405ae109e08adb34bb77d63a1334fba7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uAC15\uC9C4NPC_3"
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1656
+        width: 44
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d787a80e4b87df34e8ea5e3759eb6d7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uAC15\uC9C4NPC_4"
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1597
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4717ae280b6329d449f2e25ad816f4b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uAC15\uC9C4NPC_5"
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1598
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bd0f71aa16e2b4d9db1a6aa111dff3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uAC15\uC9C4NPC_6"
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1324
+        width: 241
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1b7da254eb88c4c98486a10d6921e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uAC15\uC9C4NPC_7"
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1529
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53914fb51bc8ab43a1832e2b083317e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uAC15\uC9C4NPC_8"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1171
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ddcf3adb4b05648ae4568a14524491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uAC15\uC9C4NPC_9"
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1152
+        width: 184
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0c549c853e4554bba022955e6de320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uAC15\uC9C4NPC_10"
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1150
+        width: 184
+        height: 371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c18b665a12867448580255d43daf3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uAC15\uC9C4NPC_11"
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1046
+        width: 116
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b7abb85ca682245b924ab77c53152f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uAC15\uC9C4NPC_12"
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 607
+        width: 257
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94da56ddc734294ebcd43842180070d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uAC15\uC9C4NPC_13"
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 973
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43faed2aec815cb4fa52054c7f5ddb0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uAC15\uC9C4NPC_19"
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 143
+        width: 345
+        height: 753
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6007738ce96384abddfddb55c1e269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uAC15\uC9C4NPC_22"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 662
+        width: 11
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9c7ae0f8d9267479e3f847e73c97c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: 0, y: 877}
+      - {x: -41.411434, y: 875.0415}
+      - {x: -82.63792, y: 869.1749}
+      - {x: -123.49531, y: 859.4264}
+      - {x: -163.80116, y: 845.8395}
+      - {x: -203.37541, y: 828.4748}
+      - {x: -242.04137, y: 807.41}
+      - {x: -279.6263, y: 782.739}
+      - {x: -315.96234, y: 754.5722}
+      - {x: -350.8872, y: 723.0352}
+      - {x: -384.24493, y: 688.26904}
+      - {x: -415.88654, y: 650.4289}
+      - {x: -445.6707, y: 609.6838}
+      - {x: -473.46432, y: 566.2157}
+      - {x: -499.1434, y: 520.2187}
+      - {x: -522.5932, y: 471.89835}
+      - {x: -543.7089, y: 421.47025}
+      - {x: -562.39636, y: 369.15982}
+      - {x: -578.57196, y: 315.20062}
+      - {x: -592.1636, y: 259.83365}
+      - {x: -603.1104, y: 203.30621}
+      - {x: -611.3636, y: 145.87074}
+      - {x: -616.8862, y: 87.78378}
+      - {x: -619.65375, y: 29.304756}
+      - {x: -619.65375, y: -29.30515}
+      - {x: -616.8862, y: -87.784164}
+      - {x: -611.3635, y: -145.87112}
+      - {x: -603.11035, y: -203.30658}
+      - {x: -592.16345, y: -259.834}
+      - {x: -578.5719, y: -315.201}
+      - {x: -562.39624, y: -369.1602}
+      - {x: -543.7088, y: -421.47052}
+      - {x: -522.5931, y: -471.89844}
+      - {x: -499.14334, y: -520.2188}
+      - {x: -473.4643, y: -566.21576}
+      - {x: -445.67065, y: -609.68384}
+      - {x: -415.88654, y: -650.4289}
+      - {x: -384.24496, y: -688.26904}
+      - {x: -350.8873, y: -723.0352}
+      - {x: -315.96246, y: -754.5721}
+      - {x: -279.62646, y: -782.7389}
+      - {x: -242.04156, y: -807.4098}
+      - {x: -203.37569, y: -828.4747}
+      - {x: -163.80147, y: -845.83936}
+      - {x: -123.4957, y: -859.42633}
+      - {x: -82.63834, y: -869.1749}
+      - {x: -41.41192, y: -875.0415}
+      - {x: -0.0005370759, y: -877}
+      - {x: 41.410847, y: -875.04156}
+      - {x: 82.63728, y: -869.17505}
+      - {x: 123.494644, y: -859.42664}
+      - {x: 163.80043, y: -845.8397}
+      - {x: 203.37468, y: -828.47516}
+      - {x: 242.04059, y: -807.4104}
+      - {x: 279.6255, y: -782.73956}
+      - {x: 315.96152, y: -754.5729}
+      - {x: 350.8864, y: -723.036}
+      - {x: 384.24414, y: -688.26996}
+      - {x: 415.88574, y: -650.42993}
+      - {x: 445.6699, y: -609.6849}
+      - {x: 473.4636, y: -566.21686}
+      - {x: 499.1428, y: -520.21985}
+      - {x: 522.59265, y: -471.89938}
+      - {x: 543.70856, y: -421.4713}
+      - {x: 562.39606, y: -369.1608}
+      - {x: 578.5717, y: -315.2015}
+      - {x: 592.1634, y: -259.83447}
+      - {x: 603.1102, y: -203.30695}
+      - {x: 611.3635, y: -145.87138}
+      - {x: 616.8862, y: -87.784325}
+      - {x: 619.65375, y: -29.305204}
+      - {x: 619.65375, y: 29.304806}
+      - {x: 616.8862, y: 87.783936}
+      - {x: 611.3635, y: 145.87099}
+      - {x: 603.11035, y: 203.30656}
+      - {x: 592.16345, y: 259.8341}
+      - {x: 578.57184, y: 315.20114}
+      - {x: 562.3961, y: 369.16043}
+      - {x: 543.7087, y: 421.47095}
+      - {x: 522.59283, y: 471.89908}
+      - {x: 499.14294, y: 520.21954}
+      - {x: 473.46378, y: 566.21655}
+      - {x: 445.67, y: 609.68475}
+      - {x: 415.8857, y: 650.42993}
+      - {x: 384.244, y: 688.27014}
+      - {x: 350.88614, y: 723.0363}
+      - {x: 315.96112, y: 754.5732}
+      - {x: 279.62497, y: 782.7399}
+      - {x: 242.03989, y: 807.4108}
+      - {x: 203.37383, y: 828.4756}
+      - {x: 163.79944, y: 845.8401}
+      - {x: 123.49347, y: 859.42694}
+      - {x: 82.635956, y: 869.1753}
+      - {x: 41.409355, y: 875.04175}
+    physicsShape: []
+    bones: []
+    spriteID: 4c91166407b83f242aab79c60303e706
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
